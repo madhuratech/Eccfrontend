@@ -25,8 +25,6 @@ function Aboutservice() {
         "Cost-effective and efficient solar services",
         "Reliable solar services",
       ],
-      buttonText: "Learn More",
-      buttonLink: "/contact",
       image:  SolarEPC,
       imageAlt: "Solar EPC Services",
       statLabel: "Performance",
@@ -47,8 +45,7 @@ function Aboutservice() {
         "Data analytics solutions to help you make better decisions."
         
       ],
-      buttonText: "Learn More",
-      buttonLink: "/contact",
+  
       image: SolarPlant,
       imageAlt: "Solar Plant Management",
       statLabel: "Backup Reliability",
@@ -67,8 +64,6 @@ function Aboutservice() {
         "System control for better performance ",
         "Reliable support for daily operations",
       ],
-      buttonText: "Learn More",
-      buttonLink: "/contact",
       image: OM,
       imageAlt: "Solar Operation and Maintenance Services",
       statLabel: "System Uptime",
@@ -87,8 +82,7 @@ function Aboutservice() {
         "Smart energy usage and savings",
         "Easy and safe storage solutions",
       ],
-      buttonText: "Learn More",
-      buttonLink: "/contact",
+      
       image: Batterystorage,
       imageAlt: "Solar Battery Storage Services",
       statLabel: "Safety",
@@ -107,8 +101,6 @@ function Aboutservice() {
         "Runs efficiently even in low light conditions",
         "Used for various applications"
       ],
-      buttonText: "Learn More",
-      buttonLink: "/contact",
       image: Solarpump,
       imageAlt: "Solar Pump Services",
       statLabel: "Efficiency",
@@ -127,8 +119,6 @@ function Aboutservice() {
         "Designed to maintain consistent energy generation ",
         "Adaptable to different designs of solar systems"
       ],
-      buttonText: "Learn More",
-      buttonLink: "/contact",
       image: cleaningrobot,
       imageAlt: "Solar Panel Cleaning Robot Services",
       statLabel: "Cleaning Efficiency",
@@ -147,8 +137,6 @@ function Aboutservice() {
         "Regulatory compliance and documentation support",
         "Long-term cost optimisation and energy planning"
       ],
-      buttonText: "Learn More",
-      buttonLink: "/contact",
       image: thirdparty,
       imageAlt: "Third Party Solar Power Purchase Services",
       statLabel: "Sustainability",
