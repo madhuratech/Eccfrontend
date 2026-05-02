@@ -47,7 +47,9 @@ function ContactFormSection() {
     setStatusMessage("");
 
     try {
-      const response = await fetch("http://localhost:5000/api/contact", {
+      // const response = await fetch("http://localhost:5000/api/contact", {
+      const response = await fetch("http://185.199.53.201:5000/send-mail", {
+        
         method: "POST",
         headers: {
           "Content-Type": "application/json",
